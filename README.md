@@ -1,7 +1,7 @@
 <!-- ROYAL CHERRY | Profile README for @MaryamRazzaghNejad -->
 <div align="center">
   <img src="./assets/royal-header.gif" width="100%" alt="Royal Cherry velvet curtains slowly opening fully to reveal Maryam, then smoothly closing in an endless loop" />
-  <p><sub>A slow, seamless 24-second performance: the curtains open fully, pause, and close again in a continuous loop.</sub></p>
+  <!-- <p><sub>A slow, seamless 24-second performance: the curtains open fully, pause, and close again in a continuous loop.</sub></p> -->
   <h1>Maryam Razzagh Nejad</h1>
   <p><strong>Computer Engineering Student · Aspiring Software Engineer</strong></p>
   <p><em>Building from fundamentals. Designing with intention. Growing toward intelligent systems.</em></p>
