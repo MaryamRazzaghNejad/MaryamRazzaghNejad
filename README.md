@@ -1,6 +1,7 @@
 <!-- ROYAL CHERRY | Profile README for @MaryamRazzaghNejad -->
 <div align="center">
-  <img src="./assets/royal-header.gif" width="100%" alt="Royal Cherry animated curtain header revealing Maryam Razzagh Nejad" />
+  <img src="./assets/royal-header.gif" width="100%" alt="Royal Cherry velvet curtains slowly opening fully to reveal Maryam, then smoothly closing in an endless loop" />
+  <p><sub>A slow, seamless 24-second performance: the curtains open fully, pause, and close again in a continuous loop.</sub></p>
   <h1>Maryam Razzagh Nejad</h1>
   <p><strong>Computer Engineering Student · Aspiring Software Engineer</strong></p>
   <p><em>Building from fundamentals. Designing with intention. Growing toward intelligent systems.</em></p>
@@ -125,5 +126,6 @@ GitHub README rendering does not provide arbitrary JavaScript or reliable hover-
 <div align="center">
   <img src="./assets/ornaments/royal-divider.svg" width="78%" alt="Antique gold ornamental divider" />
   <p><strong><em>Learn deeply. Build with intention. Engineer responsibly.</em></strong></p>
+  <sub><a href="./SECURITY-REVIEW.md">Security and privacy notes</a></sub>
   <sub>Thank you for visiting the Royal Cherry atelier.</sub>
 </div>
