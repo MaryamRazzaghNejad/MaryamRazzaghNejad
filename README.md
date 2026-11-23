@@ -29,6 +29,14 @@ My longer-term direction is **full-stack software engineering**, followed by dee
 
 I value fundamentals over shortcuts, deliberate practice over superficial familiarity, and projects that demonstrate how concepts work together.
 
+<div align="center">
+  <img
+    src="./assets/prismatic-hero-RoyalCherry-MaryamRazzaghNejad.gif"
+    alt="Maryam Razzagh Nejad - Royal Cherry Animated Header"
+    width="100%"
+  />
+</div>
+
 ## ✦ Languages & Experience
 
 The levels below describe the learning history shared so far; they are not proficiency scores.
