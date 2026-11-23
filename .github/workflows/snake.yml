@@ -1,0 +1,40 @@
+name: Generate Royal Cherry contribution snake
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: royal-cherry-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate light and dark contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MaryamRazzaghNejad
+          outputs: |
+            dist/github-snake.svg?color_snake=%23C7A96B&color_dots=%233B0710,%235B0F1B,%23641126,%23721626,%238B2636
+            dist/github-snake-dark.svg?color_snake=%23D8B8BF&color_dots=%233B0710,%235B0F1B,%23641126,%23721626,%238B2636
+
+      - name: Publish generated SVGs to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
