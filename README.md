@@ -129,8 +129,8 @@ GitHub README rendering does not provide arbitrary JavaScript or reliable hover-
   <!-- Replace each YOUR_* placeholder with your actual public profile URL or email address. -->
   <p>
     <a href="https://github.com/MaryamRazzaghNejad"><img src="https://img.shields.io/badge/GitHub-3B0710?style=for-the-badge&logo=github&logoColor=F3E9E5" alt="GitHub" /></a>
-    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-5B0F1B?style=for-the-badge&logo=linkedin&logoColor=F3E9E5" alt="LinkedIn" /></a>
-    <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-721626?style=for-the-badge&logo=leetcode&logoColor=F3E9E5" alt="LeetCode" /></a>
+    <a href="https://www.linkedin.com/in/maryam-razzagh-nejad/"><img src="https://img.shields.io/badge/LinkedIn-5B0F1B?style=for-the-badge&logo=linkedin&logoColor=F3E9E5" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/maryamrazzaghnejad/"><img src="https://img.shields.io/badge/LeetCode-721626?style=for-the-badge&logo=leetcode&logoColor=F3E9E5" alt="LeetCode" /></a>
   </p>
   <p>
     <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-641126?style=for-the-badge&logo=discord&logoColor=F3E9E5" alt="Discord" /></a>
@@ -138,8 +138,8 @@ GitHub README rendering does not provide arbitrary JavaScript or reliable hover-
     <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-8B2636?style=for-the-badge&logo=instagram&logoColor=F3E9E5" alt="Instagram" /></a>
   </p>
   <p>
-    <a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-3B0710?style=for-the-badge&logo=x&logoColor=F3E9E5" alt="X" /></a>
-    <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-721626?style=for-the-badge&logoColor=F3E9E5" alt="Email" /></a>
+    <a href="https://www.x.com/maryamrazzaghnejad/"><img src="https://img.shields.io/badge/X-3B0710?style=for-the-badge&logo=x&logoColor=F3E9E5" alt="X" /></a>
+    <a href="mailto:maryamrazzaghnejadce@gmail.com"><img src="https://img.shields.io/badge/Email-721626?style=for-the-badge&logoColor=F3E9E5" alt="Email" /></a>
     <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-641126?style=for-the-badge&logo=youtube&logoColor=F3E9E5" alt="YouTube" /></a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=MaryamRazzaghNejad&style=for-the-badge&color=641126&label=PROFILE+VIEWS" alt="Profile views" />
